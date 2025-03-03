@@ -1,0 +1,46 @@
+[{
+  "_id": {
+    "$oid": "65f2d9a51a5c8e2b8d9e1240"
+  },
+  "name": "Ahmet Yılmaz",
+  "email": "ahmet@example.com",
+  "password": "$2b$10$XFE/ydU4Qa4GgFvFDqPqUe9V.RqJmE6MgbH8LjZbTU1Vf8nZVt2q2",
+  "role": "user",
+  "address": {
+    "street": "Atatürk Caddesi No: 123",
+    "city": "İstanbul",
+    "state": "Kadıköy",
+    "zipCode": "34700",
+    "country": "Türkiye"
+  },
+  "phone": "+90 555 123 4567",
+  "orders": [],
+  "cart": [],
+  "isActive": true,
+  "createdAt": {
+    "$date": "2024-03-14T10:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65f2d9a51a5c8e2b8d9e1241"
+  },
+  "name": "Admin User",
+  "email": "admin@example.com",
+  "password": "$2b$10$XFE/ydU4Qa4GgFvFDqPqUe9V.RqJmE6MgbH8LjZbTU1Vf8nZVt2q2",
+  "role": "admin",
+  "address": {
+    "street": "İstiklal Caddesi No: 456",
+    "city": "İstanbul",
+    "state": "Beyoğlu",
+    "zipCode": "34435",
+    "country": "Türkiye"
+  },
+  "phone": "+90 555 987 6543",
+  "orders": [],
+  "cart": [],
+  "isActive": true,
+  "createdAt": {
+    "$date": "2024-03-14T10:00:00.000Z"
+  }
+}]

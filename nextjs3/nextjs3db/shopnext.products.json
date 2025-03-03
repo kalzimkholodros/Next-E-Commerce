@@ -1,0 +1,528 @@
+[{
+  "_id": {
+    "$oid": "65f2d9a51a5c8e2b8d9e1238"
+  },
+  "name": "iPhone 14 Pro",
+  "slug": "iphone-14-pro",
+  "description": "Apple'ın en yeni amiral gemisi telefonu",
+  "price": 49999.99,
+  "comparePrice": 52999.99,
+  "images": [
+    "https://picsum.photos/800/800?random=1",
+    "https://picsum.photos/800/800?random=2"
+  ],
+  "category": {
+    "$oid": "65f2d9a51a5c8e2b8d9e1234"
+  },
+  "stock": 45,
+  "ratings": {
+    "average": 4.8,
+    "count": 127
+  },
+  "specifications": [
+    {
+      "name": "Ekran",
+      "value": "6.7 inç Super Retina XDR"
+    },
+    {
+      "name": "İşlemci",
+      "value": "A16 Bionic"
+    },
+    {
+      "name": "RAM",
+      "value": "6 GB"
+    },
+    {
+      "name": "Depolama",
+      "value": "256 GB"
+    }
+  ],
+  "isActive": true,
+  "createdAt": {
+    "$date": "2024-03-14T10:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65f2d9a51a5c8e2b8d9e1239"
+  },
+  "name": "MacBook Pro M2",
+  "slug": "macbook-pro-m2",
+  "description": "14 inç MacBook Pro M2 çip",
+  "price": 52999.99,
+  "comparePrice": 55999.99,
+  "images": [
+    "https://picsum.photos/800/800?random=3",
+    "https://picsum.photos/800/800?random=4"
+  ],
+  "category": {
+    "$oid": "65f2d9a51a5c8e2b8d9e1235"
+  },
+  "stock": 30,
+  "ratings": {
+    "average": 4.9,
+    "count": 84
+  },
+  "specifications": [
+    {
+      "name": "İşlemci",
+      "value": "Apple M2 Pro"
+    },
+    {
+      "name": "RAM",
+      "value": "16 GB"
+    },
+    {
+      "name": "Depolama",
+      "value": "512 GB SSD"
+    },
+    {
+      "name": "Ekran",
+      "value": "14 inç Liquid Retina XDR"
+    }
+  ],
+  "isActive": true,
+  "createdAt": {
+    "$date": "2024-03-14T10:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65f2d9a51a5c8e2b8d9e1240"
+  },
+  "name": "Samsung Galaxy S24 Ultra",
+  "slug": "samsung-galaxy-s24-ultra",
+  "description": "Samsung'un en yeni amiral gemisi telefonu, 200MP kamera ve S-Pen desteği",
+  "price": 46999.99,
+  "comparePrice": 49999.99,
+  "images": [
+    "https://picsum.photos/800/800?random=5",
+    "https://picsum.photos/800/800?random=6"
+  ],
+  "category": {
+    "$oid": "65f2d9a51a5c8e2b8d9e1234"
+  },
+  "stock": 35,
+  "ratings": {
+    "average": 4.7,
+    "count": 95
+  },
+  "specifications": [
+    {
+      "name": "Ekran",
+      "value": "6.8 inç Dynamic AMOLED"
+    },
+    {
+      "name": "İşlemci",
+      "value": "Snapdragon 8 Gen 3"
+    },
+    {
+      "name": "RAM",
+      "value": "12 GB"
+    },
+    {
+      "name": "Depolama",
+      "value": "512 GB"
+    }
+  ],
+  "isActive": true,
+  "createdAt": {
+    "$date": "2024-03-14T10:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65f2d9a51a5c8e2b8d9e1241"
+  },
+  "name": "Dell XPS 15",
+  "slug": "dell-xps-15",
+  "description": "15.6 inç 4K OLED ekran, RTX 4070 ekran kartı",
+  "price": 49999.99,
+  "comparePrice": 54999.99,
+  "images": [
+    "https://picsum.photos/800/800?random=7",
+    "https://picsum.photos/800/800?random=8"
+  ],
+  "category": {
+    "$oid": "65f2d9a51a5c8e2b8d9e1235"
+  },
+  "stock": 20,
+  "ratings": {
+    "average": 4.8,
+    "count": 65
+  },
+  "specifications": [
+    {
+      "name": "İşlemci",
+      "value": "Intel Core i9-13900H"
+    },
+    {
+      "name": "RAM",
+      "value": "32 GB DDR5"
+    },
+    {
+      "name": "Depolama",
+      "value": "1 TB NVMe SSD"
+    },
+    {
+      "name": "Ekran Kartı",
+      "value": "NVIDIA RTX 4070 8GB"
+    }
+  ],
+  "isActive": true,
+  "createdAt": {
+    "$date": "2024-03-14T10:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65f2d9a51a5c8e2b8d9e1242"
+  },
+  "name": "Apple Watch Series 9",
+  "slug": "apple-watch-series-9",
+  "description": "Yeni nesil Apple Watch, gelişmiş sağlık özellikleri",
+  "price": 14999.99,
+  "comparePrice": 16999.99,
+  "images": [
+    "https://picsum.photos/800/800?random=9",
+    "https://picsum.photos/800/800?random=10"
+  ],
+  "category": {
+    "$oid": "65f2d9a51a5c8e2b8d9e1237"
+  },
+  "stock": 50,
+  "ratings": {
+    "average": 4.6,
+    "count": 112
+  },
+  "specifications": [
+    {
+      "name": "Ekran",
+      "value": "Always-On Retina"
+    },
+    {
+      "name": "Boyut",
+      "value": "45mm"
+    },
+    {
+      "name": "Bağlantı",
+      "value": "GPS + Cellular"
+    },
+    {
+      "name": "Malzeme",
+      "value": "Alüminyum"
+    }
+  ],
+  "isActive": true,
+  "createdAt": {
+    "$date": "2024-03-14T10:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65f2d9a51a5c8e2b8d9e1243"
+  },
+  "name": "Sony WH-1000XM5",
+  "slug": "sony-wh-1000xm5",
+  "description": "Üst seviye gürültü engelleme özellikli kablosuz kulaklık",
+  "price": 7999.99,
+  "comparePrice": 8999.99,
+  "images": [
+    "https://picsum.photos/800/800?random=11",
+    "https://picsum.photos/800/800?random=12"
+  ],
+  "category": {
+    "$oid": "65f2d9a51a5c8e2b8d9e1236"
+  },
+  "stock": 40,
+  "ratings": {
+    "average": 4.9,
+    "count": 178
+  },
+  "specifications": [
+    {
+      "name": "Pil Ömrü",
+      "value": "30 saat"
+    },
+    {
+      "name": "Bluetooth",
+      "value": "5.2"
+    },
+    {
+      "name": "Şarj",
+      "value": "USB-C"
+    },
+    {
+      "name": "ANC",
+      "value": "Aktif Gürültü Engelleme"
+    }
+  ],
+  "isActive": true,
+  "createdAt": {
+    "$date": "2024-03-14T10:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65f2d9a51a5c8e2b8d9e1244"
+  },
+  "name": "iPad Pro M2",
+  "slug": "ipad-pro-m2",
+  "description": "12.9 inç Liquid Retina XDR ekran, M2 çip",
+  "price": 32999.99,
+  "comparePrice": 35999.99,
+  "images": [
+    "https://picsum.photos/800/800?random=13",
+    "https://picsum.photos/800/800?random=14"
+  ],
+  "category": {
+    "$oid": "65f2d9a51a5c8e2b8d9e1234"
+  },
+  "stock": 25,
+  "ratings": {
+    "average": 4.8,
+    "count": 89
+  },
+  "specifications": [
+    {
+      "name": "Ekran",
+      "value": "12.9 inç Liquid Retina XDR"
+    },
+    {
+      "name": "İşlemci",
+      "value": "Apple M2"
+    },
+    {
+      "name": "Depolama",
+      "value": "256 GB"
+    },
+    {
+      "name": "Bağlantı",
+      "value": "Wi-Fi + 5G"
+    }
+  ],
+  "isActive": true,
+  "createdAt": {
+    "$date": "2024-03-14T10:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65f2d9a51a5c8e2b8d9e1245"
+  },
+  "name": "Samsung Galaxy Watch 6 Pro",
+  "slug": "samsung-galaxy-watch-6-pro",
+  "description": "Gelişmiş sağlık özellikleri ve şık tasarım",
+  "price": 9999.99,
+  "comparePrice": 11999.99,
+  "images": [
+    "https://picsum.photos/800/800?random=15",
+    "https://picsum.photos/800/800?random=16"
+  ],
+  "category": {
+    "$oid": "65f2d9a51a5c8e2b8d9e1237"
+  },
+  "stock": 30,
+  "ratings": {
+    "average": 4.5,
+    "count": 76
+  },
+  "specifications": [
+    {
+      "name": "Ekran",
+      "value": "1.4 inç Super AMOLED"
+    },
+    {
+      "name": "Malzeme",
+      "value": "Titanyum"
+    },
+    {
+      "name": "GPS",
+      "value": "Çift Bantlı"
+    },
+    {
+      "name": "Batarya",
+      "value": "590mAh"
+    }
+  ],
+  "isActive": true,
+  "createdAt": {
+    "$date": "2024-03-14T10:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65f2d9a51a5c8e2b8d9e1246"
+  },
+  "name": "ASUS ROG Zephyrus G14",
+  "slug": "asus-rog-zephyrus-g14",
+  "description": "Kompakt gaming laptop, RTX 4060 ekran kartı",
+  "price": 39999.99,
+  "comparePrice": 42999.99,
+  "images": [
+    "https://picsum.photos/800/800?random=17",
+    "https://picsum.photos/800/800?random=18"
+  ],
+  "category": {
+    "$oid": "65f2d9a51a5c8e2b8d9e1235"
+  },
+  "stock": 15,
+  "ratings": {
+    "average": 4.7,
+    "count": 54
+  },
+  "specifications": [
+    {
+      "name": "İşlemci",
+      "value": "AMD Ryzen 9 7940HS"
+    },
+    {
+      "name": "RAM",
+      "value": "16 GB DDR5"
+    },
+    {
+      "name": "Depolama",
+      "value": "1 TB PCIe SSD"
+    },
+    {
+      "name": "Ekran",
+      "value": "14 inç 2K 165Hz"
+    }
+  ],
+  "isActive": true,
+  "createdAt": {
+    "$date": "2024-03-14T10:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65f2d9a51a5c8e2b8d9e1247"
+  },
+  "name": "Apple AirPods Pro 2",
+  "slug": "apple-airpods-pro-2",
+  "description": "Aktif gürültü engelleme ve uzamsal ses",
+  "price": 6999.99,
+  "comparePrice": 7999.99,
+  "images": [
+    "https://picsum.photos/800/800?random=19",
+    "https://picsum.photos/800/800?random=20"
+  ],
+  "category": {
+    "$oid": "65f2d9a51a5c8e2b8d9e1236"
+  },
+  "stock": 60,
+  "ratings": {
+    "average": 4.8,
+    "count": 245
+  },
+  "specifications": [
+    {
+      "name": "Pil Ömrü",
+      "value": "6 saat"
+    },
+    {
+      "name": "Şarj",
+      "value": "MagSafe"
+    },
+    {
+      "name": "Çip",
+      "value": "H2"
+    },
+    {
+      "name": "Su Direnci",
+      "value": "IPX4"
+    }
+  ],
+  "isActive": true,
+  "createdAt": {
+    "$date": "2024-03-14T10:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65f2d9a51a5c8e2b8d9e1248"
+  },
+  "name": "Google Pixel 8 Pro",
+  "slug": "google-pixel-8-pro",
+  "description": "En iyi kamera deneyimi ve saf Android",
+  "price": 39999.99,
+  "comparePrice": 42999.99,
+  "images": [
+    "https://picsum.photos/800/800?random=21",
+    "https://picsum.photos/800/800?random=22"
+  ],
+  "category": {
+    "$oid": "65f2d9a51a5c8e2b8d9e1234"
+  },
+  "stock": 20,
+  "ratings": {
+    "average": 4.6,
+    "count": 87
+  },
+  "specifications": [
+    {
+      "name": "Ekran",
+      "value": "6.7 inç LTPO OLED"
+    },
+    {
+      "name": "İşlemci",
+      "value": "Google Tensor G3"
+    },
+    {
+      "name": "RAM",
+      "value": "12 GB"
+    },
+    {
+      "name": "Kamera",
+      "value": "50MP + 48MP + 48MP"
+    }
+  ],
+  "isActive": true,
+  "createdAt": {
+    "$date": "2024-03-14T10:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65f2d9a51a5c8e2b8d9e1249"
+  },
+  "name": "Logitech MX Master 3S",
+  "slug": "logitech-mx-master-3s",
+  "description": "Üst seviye kablosuz mouse, 8000 DPI sensör",
+  "price": 2999.99,
+  "comparePrice": 3499.99,
+  "images": [
+    "https://picsum.photos/800/800?random=23",
+    "https://picsum.photos/800/800?random=24"
+  ],
+  "category": {
+    "$oid": "65f2d9a51a5c8e2b8d9e1236"
+  },
+  "stock": 45,
+  "ratings": {
+    "average": 4.9,
+    "count": 156
+  },
+  "specifications": [
+    {
+      "name": "Sensör",
+      "value": "8000 DPI"
+    },
+    {
+      "name": "Bağlantı",
+      "value": "Bluetooth + USB"
+    },
+    {
+      "name": "Pil Ömrü",
+      "value": "70 gün"
+    },
+    {
+      "name": "Düğme",
+      "value": "7 programlanabilir"
+    }
+  ],
+  "isActive": true,
+  "createdAt": {
+    "$date": "2024-03-14T10:00:00.000Z"
+  }
+}]

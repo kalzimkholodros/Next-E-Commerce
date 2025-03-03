@@ -1,0 +1,56 @@
+[{
+  "_id": {
+    "$oid": "65f2d9a51a5c8e2b8d9e1234"
+  },
+  "name": "Akıllı Telefonlar",
+  "slug": "akilli-telefonlar",
+  "image": "https://picsum.photos/800/600?random=1",
+  "description": "En yeni ve güçlü akıllı telefonlar",
+  "itemCount": 5,
+  "isActive": true,
+  "createdAt": {
+    "$date": "2024-03-14T10:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65f2d9a51a5c8e2b8d9e1235"
+  },
+  "name": "Laptoplar",
+  "slug": "laptoplar",
+  "image": "https://picsum.photos/800/600?random=2",
+  "description": "Profesyonel ve oyun laptopları",
+  "itemCount": 6,
+  "isActive": true,
+  "createdAt": {
+    "$date": "2024-03-14T10:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65f2d9a51a5c8e2b8d9e1236"
+  },
+  "name": "Aksesuarlar",
+  "slug": "aksesuarlar",
+  "image": "https://picsum.photos/800/600?random=3",
+  "description": "Telefon ve bilgisayar aksesuarları",
+  "itemCount": 5,
+  "isActive": true,
+  "createdAt": {
+    "$date": "2024-03-14T10:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65f2d9a51a5c8e2b8d9e1237"
+  },
+  "name": "Giyilebilir Teknoloji",
+  "slug": "giyilebilir-teknoloji",
+  "image": "https://picsum.photos/800/600?random=4",
+  "description": "Akıllı saatler ve fitness takipçileri",
+  "itemCount": 4,
+  "isActive": true,
+  "createdAt": {
+    "$date": "2024-03-14T10:00:00.000Z"
+  }
+}]

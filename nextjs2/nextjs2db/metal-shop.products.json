@@ -1,0 +1,390 @@
+[{
+  "_id": {
+    "$oid": "67c503c4f3f689ab848ff698"
+  },
+  "name": "Bakır Kablo 2.5mm",
+  "category": "elektrik",
+  "price": 450,
+  "description": "Yüksek kaliteli bakır kablo, 100 metre",
+  "stock": 50,
+  "date": "2024-03-15",
+  "imageUrl": "https://images.unsplash.com/photo-1601752874509-0e350645c8a1?w=800",
+  "brand": "Prysmian"
+},
+{
+  "_id": {
+    "$oid": "67c503c4f3f689ab848ff699"
+  },
+  "name": "LED Panel 48W",
+  "category": "elektrik",
+  "price": 299.99,
+  "description": "60x60 LED Panel, Beyaz Işık, 6500K",
+  "stock": 30,
+  "date": "2024-03-10",
+  "imageUrl": "https://images.unsplash.com/photo-1565849904461-04a58ad377e0?w=800",
+  "brand": "Philips"
+},
+{
+  "_id": {
+    "$oid": "67c503c4f3f689ab848ff69a"
+  },
+  "name": "Sigorta Kutusu",
+  "category": "elektrik",
+  "price": 275.5,
+  "description": "12 Modüllü Sıva Altı Sigorta Kutusu",
+  "stock": 45,
+  "date": "2024-03-12",
+  "imageUrl": "https://images.unsplash.com/photo-1562925217-61a785ebbb82?w=800",
+  "brand": "Schneider"
+},
+{
+  "_id": {
+    "$oid": "67c503c4f3f689ab848ff69b"
+  },
+  "name": "Çelik Profil 40x40",
+  "category": "inşaat",
+  "price": 180,
+  "description": "6 metre uzunluğunda çelik profil",
+  "stock": 100,
+  "date": "2024-03-14",
+  "imageUrl": "https://images.unsplash.com/photo-1589792923962-537704632910?w=800",
+  "brand": "Erdemir"
+},
+{
+  "_id": {
+    "$oid": "67c503c4f3f689ab848ff69c"
+  },
+  "name": "İnşaat Demiri 8mm",
+  "category": "inşaat",
+  "price": 250,
+  "description": "12 metre uzunluğunda inşaat demiri",
+  "stock": 200,
+  "date": "2024-03-11",
+  "imageUrl": "https://images.unsplash.com/photo-1518709414768-a88981a4515d?w=800",
+  "brand": "İçdaş"
+},
+{
+  "_id": {
+    "$oid": "67c503c4f3f689ab848ff69d"
+  },
+  "name": "Buzdolabı Kompresörü",
+  "category": "beyaz eşya",
+  "price": 850,
+  "description": "Universal Buzdolabı Kompresörü",
+  "stock": 25,
+  "date": "2024-03-13",
+  "imageUrl": "https://images.unsplash.com/photo-1584515933487-779824d29309?w=800",
+  "brand": "Arçelik"
+},
+{
+  "_id": {
+    "$oid": "67c503c4f3f689ab848ff69e"
+  },
+  "name": "Endüstriyel LED Aydınlatma",
+  "category": "elektrik",
+  "price": 750,
+  "description": "100W Endüstriyel LED Aydınlatma",
+  "stock": 40,
+  "date": "2024-03-08",
+  "imageUrl": "https://images.unsplash.com/photo-1517292987719-0369a794ec0f?w=800",
+  "brand": "Osram"
+},
+{
+  "_id": {
+    "$oid": "67c503c4f3f689ab848ff69f"
+  },
+  "name": "Çelik Hasır",
+  "category": "inşaat",
+  "price": 420,
+  "description": "3x2 metre, 5mm kalınlık",
+  "stock": 60,
+  "date": "2024-03-09",
+  "imageUrl": "https://images.unsplash.com/photo-1589792923962-537704632910?w=800",
+  "brand": "Kardemir"
+},
+{
+  "_id": {
+    "$oid": "67c503c4f3f689ab848ff6a0"
+  },
+  "name": "Fırın Rezistansı",
+  "category": "beyaz eşya",
+  "price": 195,
+  "description": "2000W Universal Fırın Rezistansı",
+  "stock": 50,
+  "date": "2024-03-07",
+  "imageUrl": "https://images.unsplash.com/photo-1585314062340-f1a5a7c9328d?w=800",
+  "brand": "Vestel"
+},
+{
+  "_id": {
+    "$oid": "67c503c4f3f689ab848ff6a1"
+  },
+  "name": "Elektrik Panosu",
+  "category": "elektrik",
+  "price": 1250,
+  "description": "Metal Sac Pano, 40x60cm",
+  "stock": 15,
+  "date": "2024-03-06",
+  "imageUrl": "https://images.unsplash.com/photo-1562925217-61a785ebbb82?w=800",
+  "brand": "ABB"
+},
+{
+  "_id": {
+    "$oid": "67c503c4f3f689ab848ff6a2"
+  },
+  "name": "Çamaşır Makinesi Motoru",
+  "category": "beyaz eşya",
+  "price": 620,
+  "description": "1200 Devir Universal Motor",
+  "stock": 30,
+  "date": "2024-03-05",
+  "imageUrl": "https://images.unsplash.com/photo-1584515933487-779824d29309?w=800",
+  "brand": "Bosch"
+},
+{
+  "_id": {
+    "$oid": "67c503c4f3f689ab848ff6a3"
+  },
+  "name": "I Profil 200",
+  "category": "inşaat",
+  "price": 890,
+  "description": "6 metre I Profil, 200mm",
+  "stock": 40,
+  "date": "2024-03-04",
+  "imageUrl": "https://images.unsplash.com/photo-1518709414768-a88981a4515d?w=800",
+  "brand": "Erdemir"
+},
+{
+  "_id": {
+    "$oid": "67c503c4f3f689ab848ff6a4"
+  },
+  "name": "Akıllı Priz",
+  "category": "elektrik",
+  "price": 189.99,
+  "description": "WiFi Kontrollü Akıllı Priz",
+  "stock": 75,
+  "date": "2024-03-03",
+  "imageUrl": "https://images.unsplash.com/photo-1558449028-b53a39d100fc?w=800",
+  "brand": "TP-Link"
+},
+{
+  "_id": {
+    "$oid": "67c503c4f3f689ab848ff6a5"
+  },
+  "name": "Bulaşık Makinesi Pompası",
+  "category": "beyaz eşya",
+  "price": 345,
+  "description": "Tahliye Pompası",
+  "stock": 45,
+  "date": "2024-03-02",
+  "imageUrl": "https://images.unsplash.com/photo-1584515933487-779824d29309?w=800",
+  "brand": "Siemens"
+},
+{
+  "_id": {
+    "$oid": "67c503c4f3f689ab848ff6a6"
+  },
+  "name": "Galvanizli Sac",
+  "category": "inşaat",
+  "price": 280,
+  "description": "1mm Kalınlık, 100x200cm",
+  "stock": 90,
+  "date": "2024-03-01",
+  "imageUrl": "https://images.unsplash.com/photo-1589792923962-537704632910?w=800",
+  "brand": "Erdemir"
+},
+{
+  "_id": {
+    "$oid": "67c503c4f3f689ab848ff6a7"
+  },
+  "name": "LED Şerit",
+  "category": "elektrik",
+  "price": 120,
+  "description": "5 metre, RGB LED Şerit",
+  "stock": 100,
+  "date": "2024-02-29",
+  "imageUrl": "https://images.unsplash.com/photo-1586813334740-13b33e534702?w=800",
+  "brand": "Philips"
+},
+{
+  "_id": {
+    "$oid": "67c503c4f3f689ab848ff6a8"
+  },
+  "name": "Buzdolabı Fanı",
+  "category": "beyaz eşya",
+  "price": 145,
+  "description": "No-Frost Fan Motoru",
+  "stock": 60,
+  "date": "2024-02-28",
+  "imageUrl": "https://images.unsplash.com/photo-1584515933487-779824d29309?w=800",
+  "brand": "Samsung"
+},
+{
+  "_id": {
+    "$oid": "67c503c4f3f689ab848ff6a9"
+  },
+  "name": "Köşebent",
+  "category": "inşaat",
+  "price": 95,
+  "description": "30x30mm, 2mm Kalınlık",
+  "stock": 150,
+  "date": "2024-02-27",
+  "imageUrl": "https://images.unsplash.com/photo-1518709414768-a88981a4515d?w=800",
+  "brand": "Kardemir"
+},
+{
+  "_id": {
+    "$oid": "67c503c4f3f689ab848ff6aa"
+  },
+  "name": "Kablo Kanalı",
+  "category": "elektrik",
+  "price": 45,
+  "description": "2 metre, 16x25mm PVC Kanal",
+  "stock": 200,
+  "date": "2024-02-26",
+  "imageUrl": "https://images.unsplash.com/photo-1601752874509-0e350645c8a1?w=800",
+  "brand": "Schneider"
+},
+{
+  "_id": {
+    "$oid": "67c503c4f3f689ab848ff6ab"
+  },
+  "name": "Çamaşır Makinesi Kapağı",
+  "category": "beyaz eşya",
+  "price": 450,
+  "description": "Universal Ön Kapak Komple",
+  "stock": 20,
+  "date": "2024-02-25",
+  "imageUrl": "https://images.unsplash.com/photo-1584515933487-779824d29309?w=800",
+  "brand": "Arçelik"
+},
+{
+  "_id": {
+    "$oid": "67c503c4f3f689ab848ff6ac"
+  },
+  "name": "Demir Boru",
+  "category": "inşaat",
+  "price": 165,
+  "description": "2 inch, 6 metre Galvanizli",
+  "stock": 80,
+  "date": "2024-02-24",
+  "imageUrl": "https://images.unsplash.com/photo-1589792923962-537704632910?w=800",
+  "brand": "Borusan"
+},
+{
+  "_id": {
+    "$oid": "67c503c4f3f689ab848ff6ad"
+  },
+  "name": "Kaçak Akım Rölesi",
+  "category": "elektrik",
+  "price": 320,
+  "description": "4x40A, 30mA Hassasiyet",
+  "stock": 55,
+  "date": "2024-02-23",
+  "imageUrl": "https://images.unsplash.com/photo-1562925217-61a785ebbb82?w=800",
+  "brand": "Legrand"
+},
+{
+  "_id": {
+    "$oid": "67c503c4f3f689ab848ff6ae"
+  },
+  "name": "Bulaşık Makinesi Sepeti",
+  "category": "beyaz eşya",
+  "price": 320,
+  "description": "Alt Sepet, Tekerlekli",
+  "stock": 35,
+  "date": "2024-02-22",
+  "imageUrl": "https://images.unsplash.com/photo-1584515933487-779824d29309?w=800",
+  "brand": "Bosch"
+},
+{
+  "_id": {
+    "$oid": "67c503c4f3f689ab848ff6af"
+  },
+  "name": "Çelik Halat",
+  "category": "inşaat",
+  "price": 85,
+  "description": "8mm Kalınlık, 100 metre",
+  "stock": 70,
+  "date": "2024-02-21",
+  "imageUrl": "https://images.unsplash.com/photo-1518709414768-a88981a4515d?w=800",
+  "brand": "Çelik Halat A.Ş."
+},
+{
+  "_id": {
+    "$oid": "67c503c4f3f689ab848ff6b0"
+  },
+  "name": "Aydınlatma Sensörü",
+  "category": "elektrik",
+  "price": 145,
+  "description": "Hareket Sensörlü LED",
+  "stock": 85,
+  "date": "2024-02-20",
+  "imageUrl": "https://images.unsplash.com/photo-1565849904461-04a58ad377e0?w=800",
+  "brand": "Philips"
+},
+{
+  "_id": {
+    "$oid": "67c503c4f3f689ab848ff6b1"
+  },
+  "name": "Fırın Termostatı",
+  "category": "beyaz eşya",
+  "price": 230,
+  "description": "50-300 Derece Ayarlı",
+  "stock": 40,
+  "date": "2024-02-19",
+  "imageUrl": "https://images.unsplash.com/photo-1585314062340-f1a5a7c9328d?w=800",
+  "brand": "Vestel"
+},
+{
+  "_id": {
+    "$oid": "67c503c4f3f689ab848ff6b2"
+  },
+  "name": "Yapı Kimyasalı",
+  "category": "inşaat",
+  "price": 175,
+  "description": "25kg Su Yalıtım Malzemesi",
+  "stock": 110,
+  "date": "2024-02-18",
+  "imageUrl": "https://images.unsplash.com/photo-1589792923962-537704632910?w=800",
+  "brand": "Weber"
+},
+{
+  "_id": {
+    "$oid": "67c503c4f3f689ab848ff6b3"
+  },
+  "name": "Güç Kaynağı",
+  "category": "elektrik",
+  "price": 550,
+  "description": "12V 30A SMPS",
+  "stock": 25,
+  "date": "2024-02-17",
+  "imageUrl": "https://images.unsplash.com/photo-1558449028-b53a39d100fc?w=800",
+  "brand": "Meanwell"
+},
+{
+  "_id": {
+    "$oid": "67c503c4f3f689ab848ff6b4"
+  },
+  "name": "Buzdolabı Kapı Contası",
+  "category": "beyaz eşya",
+  "price": 195,
+  "description": "Universal Conta",
+  "stock": 65,
+  "date": "2024-02-16",
+  "imageUrl": "https://images.unsplash.com/photo-1584515933487-779824d29309?w=800",
+  "brand": "Samsung"
+},
+{
+  "_id": {
+    "$oid": "67c503c4f3f689ab848ff6b5"
+  },
+  "name": "Metal Vida Seti",
+  "category": "inşaat",
+  "price": 120,
+  "description": "1000 Adet Karışık Set",
+  "stock": 95,
+  "date": "2024-02-15",
+  "imageUrl": "https://images.unsplash.com/photo-1518709414768-a88981a4515d?w=800",
+  "brand": "Hilti"
+}]
