@@ -51,7 +51,7 @@ Installation steps for each project:
 
 1. Clone the repository
 ```bash
-git clone https://github.com/kalzimkholodros/Next.js.TypeScript.git
+git clone https://github.com/kalzimkholodros/Next-E-Commerce.git
 ```
 
 2. Navigate to project directory
